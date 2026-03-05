@@ -1,6 +1,5 @@
 package ro.ase.cts.clase.readere;
 
-import ro.ase.cts.clase.Angajat;
 import ro.ase.cts.clase.Aplicant;
 import ro.ase.cts.clase.Elev;
 
@@ -10,10 +9,14 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class PupilReader extends AplicantReader {
+public class StudentReader extends AplicantReader {
+    public StudentReader(String numeFisier) {
+        super(numeFisier);
+    }
+
     @Override
-    public List<Aplicant> readAplicanti(String file) throws FileNotFoundException {
-        Scanner input2 = new Scanner(new File(file));
+    public List<Aplicant> readAplicanti() throws FileNotFoundException {
+        Scanner input2 = new Scanner(new File(super.numeFisier));
         input2.useDelimiter(",|\n");
         List<Aplicant> elevi = new ArrayList<Aplicant>();
 
