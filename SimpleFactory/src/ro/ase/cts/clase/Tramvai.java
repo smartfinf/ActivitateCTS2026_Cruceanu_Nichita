@@ -9,7 +9,7 @@ public class Tramvai extends MijlocTransport{
     public void afiseazaDescriere() {
         StringBuilder sb=new StringBuilder();
         sb.append("Tramvaiul are: Numar roti:").append(super.numarRoti);
-        sb.append("Nuamr Inmatriculare").append(super.numarInmatriculare);
+        sb.append(" Numar Inmatriculare: ").append(super.numarInmatriculare);
         System.out.println(sb.toString());
     }
 }

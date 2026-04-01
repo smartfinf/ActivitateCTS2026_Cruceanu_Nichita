@@ -9,7 +9,7 @@ public class Troleibuz extends MijlocTransport{
     public void afiseazaDescriere() {
         StringBuilder sb=new StringBuilder();
         sb.append("Troleibuz are: Numar roti:").append(super.numarRoti);
-        sb.append("Nuamr Inmatriculare").append(super.numarInmatriculare);
+        sb.append(" Nmamr Inmatriculare: ").append(super.numarInmatriculare);
         System.out.println(sb.toString());
     }
 }

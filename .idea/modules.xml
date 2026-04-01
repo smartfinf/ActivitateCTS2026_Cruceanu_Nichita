@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuilderS5/BuilderS5.iml" filepath="$PROJECT_DIR$/BuilderS5/BuilderS5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeS6/PrototypeS6.iml" filepath="$PROJECT_DIR$/PrototypeS6/PrototypeS6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 2/Seminar 2.iml" filepath="$PROJECT_DIR$/Seminar 2/Seminar 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodS6/Semnar 6.iml" filepath="$PROJECT_DIR$/FactoryMethodS6/Semnar 6.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory Singleton/SimpleFactory Singleton.iml" filepath="$PROJECT_DIR$/SimpleFactory Singleton/SimpleFactory Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Solid_CTS/Solid_CTS.iml" filepath="$PROJECT_DIR$/Solid_CTS/Solid_CTS.iml" />
     </modules>

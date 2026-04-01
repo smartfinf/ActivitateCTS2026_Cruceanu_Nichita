@@ -9,8 +9,8 @@ import ro.ase.cts.factory.Tipuri;
 public class Main {
     public static void main(String[] args) {
         Depou depou =new Depou();
-        MijlocTransport autobuz=depou.getMijlocTransporta(Tipuri.Autobuz,7,"BHNG234");
-        MijlocTransport troleu=depou.getMijlocTransporta(Tipuri.Troleibuz,2,"BMNG238");
+        MijlocTransport autobuz=depou.getMijlocTransport(Tipuri.Autobuz,7,"BHNG234");
+        MijlocTransport troleu=depou.getMijlocTransport(Tipuri.Troleibuz,2,"BMNG238");
 
         autobuz.afiseazaDescriere();
         troleu.afiseazaDescriere();

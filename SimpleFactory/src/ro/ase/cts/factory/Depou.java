@@ -6,13 +6,12 @@ import ro.ase.cts.clase.Tramvai;
 import ro.ase.cts.clase.Troleibuz;
 
 public class Depou {
-    public MijlocTransport getMijlocTransporta(Tipuri tip, int numarRoti, String numarInmatriculare)
+    public MijlocTransport getMijlocTransport(Tipuri tip, int numarRoti, String numarInmatriculare)
     {
         if(tip==Tipuri.Autobuz){
             return new Autobuz(numarRoti,numarInmatriculare);
         }
-        if(tip==Tipuri.Tramvai)
-        {
+        if(tip==Tipuri.Tramvai) {
             return new Tramvai(numarRoti,numarInmatriculare);
         }
         if(tip==Tipuri.Troleibuz){
