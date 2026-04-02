@@ -1,5 +1,7 @@
 package ro.ase.cts.clase;
 
+import ro.ase.cts.enums.TipMasina;
+
 public class Masina extends AMasina{
     public Masina(String numarInmatriculare) {
         super(numarInmatriculare);
@@ -9,6 +11,7 @@ public class Masina extends AMasina{
     public void afiseazaDetalii() {
         System.out.println(this.numarInmatriculare);
     }
+
 
     @Override
     public String toString() {
