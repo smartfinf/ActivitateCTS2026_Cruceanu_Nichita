@@ -1,10 +1,10 @@
 package ro.ase.cts.clase;
 
 public abstract class Supa implements FelMancare {
-    public int pret;
-    public int gramaj;
+    public float pret;
+    public float gramaj;
 
-    public Supa(int pret, int gramaj) {
+    public Supa(float pret, float gramaj) {
         this.pret = pret;
         this.gramaj = gramaj;
     }

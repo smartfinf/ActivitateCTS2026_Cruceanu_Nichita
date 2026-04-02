@@ -1,11 +1,11 @@
 package ro.ase.cts.clase;
 
 public abstract class Desert implements FelMancare{
-    int pret;
-    int calorii;
-    int gramaj;
+    float pret;
+    float calorii;
+    float gramaj;
 
-    public Desert(int pret, int calorii, int gramaj) {
+    public Desert(float pret, float calorii, float gramaj) {
         this.pret = pret;
         this.calorii = calorii;
         this.gramaj = gramaj;

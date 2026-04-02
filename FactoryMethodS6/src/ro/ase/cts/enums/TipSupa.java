@@ -1,6 +1,6 @@
 package ro.ase.cts.enums;
 
-public enum FelMancare {
+public enum TipSupa implements TipMancare {
     CIUPERCI,
     LEGUME
 }
