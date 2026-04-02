@@ -15,5 +15,6 @@ public class Main {
         Internare internare1= new Internare("matei",false,false,false,false);
         Internare internare2 = builder.setPatRabatabil(true).setNumePacient("TBuilder").build();
         Internare internare3=new InternareBuilder("More").build();
+        System.out.println(internare2.toString());
     }
 }

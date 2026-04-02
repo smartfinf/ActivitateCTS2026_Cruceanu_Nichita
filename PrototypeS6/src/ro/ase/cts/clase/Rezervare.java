@@ -50,4 +50,15 @@ public class Rezervare implements RezervareAbstracta{
 
         return rezervareNoua;
     }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Rezervare{");
+        sb.append("numeClient='").append(numeClient).append('\'');
+        sb.append(", oraRezervare=").append(oraRezervare);
+        sb.append(", ziuaRezervarii=").append(ziuaRezervarii);
+        sb.append(", numarTelefon='").append(numarTelefon).append('\'');
+        sb.append('}');
+        return sb.toString();
+    }
 }
