@@ -7,8 +7,4 @@ public interface AbstractBuilder {
     AbstractBuilder setMicDejun(boolean micDejun);
     AbstractBuilder setPapuciCamera(boolean papuciCamera);
     AbstractBuilder setHalatInterior(boolean halatInterior);
-
-
-
-
 }

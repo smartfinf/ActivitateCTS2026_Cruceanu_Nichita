@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderS5/BuilderS5.iml" filepath="$PROJECT_DIR$/BuilderS5/BuilderS5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Custom/Custom.iml" filepath="$PROJECT_DIR$/Custom/Custom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Custom 2/Custom 2.iml" filepath="$PROJECT_DIR$/Custom 2/Custom 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Custom3/Custom3.iml" filepath="$PROJECT_DIR$/Custom3/Custom3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeS6/PrototypeS6.iml" filepath="$PROJECT_DIR$/PrototypeS6/PrototypeS6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 2/Seminar 2.iml" filepath="$PROJECT_DIR$/Seminar 2/Seminar 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodS6/Semnar 6.iml" filepath="$PROJECT_DIR$/FactoryMethodS6/Semnar 6.iml" />
@@ -13,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory Singleton/SimpleFactory Singleton.iml" filepath="$PROJECT_DIR$/SimpleFactory Singleton/SimpleFactory Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Solid_CTS/Solid_CTS.iml" filepath="$PROJECT_DIR$/Solid_CTS/Solid_CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
     </modules>
   </component>
 </project>
