@@ -11,7 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/Custom3/Custom3.iml" filepath="$PROJECT_DIR$/Custom3/Custom3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeS6/PrototypeS6.iml" filepath="$PROJECT_DIR$/PrototypeS6/PrototypeS6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 2/Seminar 2.iml" filepath="$PROJECT_DIR$/Seminar 2/Seminar 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodS6/Semnar 6.iml" filepath="$PROJECT_DIR$/FactoryMethodS6/Semnar 6.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
