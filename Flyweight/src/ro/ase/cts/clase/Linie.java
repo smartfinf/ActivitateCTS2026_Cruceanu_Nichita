@@ -5,9 +5,33 @@ public class Linie implements LinieDeTransport{
     private String ultimaStatie;
     private int nrLinie;
 
-    public Linie(String primaStatie, String ultimaStatie, int nrLinie) {
+    public Linie( int nrLinie,String primaStatie, String ultimaStatie) {
         this.primaStatie = primaStatie;
         this.ultimaStatie = ultimaStatie;
+        this.nrLinie = nrLinie;
+    }
+
+    public String getPrimaStatie() {
+        return primaStatie;
+    }
+
+    public void setPrimaStatie(String primaStatie) {
+        this.primaStatie = primaStatie;
+    }
+
+    public String getUltimaStatie() {
+        return ultimaStatie;
+    }
+
+    public void setUltimaStatie(String ultimaStatie) {
+        this.ultimaStatie = ultimaStatie;
+    }
+
+    public int getNrLinie() {
+        return nrLinie;
+    }
+
+    public void setNrLinie(int nrLinie) {
         this.nrLinie = nrLinie;
     }
 

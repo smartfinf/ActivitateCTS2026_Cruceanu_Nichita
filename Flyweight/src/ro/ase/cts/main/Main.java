@@ -8,9 +8,14 @@ import ro.ase.cts.clase.ManagerLinie;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Autobuz autobuz101 =new Autobuz("model",1997,10);
-        ManagerLinie managerLinie=new ManagerLinie();
+        Autobuz autobuz1 = new Autobuz("Nou", 2000, 30);
+        Autobuz autobuz2 = new Autobuz("Nou", 2010, 40);
+        Autobuz autobuz3 = new Autobuz("Vechi", 1980, 25);
 
-        "Romana","Universitate"
+        ManagerLinie managerLinii = new ManagerLinie();
+
+
+        managerLinii.getLinie(101, "Romana", "Universitate").numarMaximPasageriPeLinie(autobuz3);
+        managerLinii.getLinie(101, "fhsfhf", "shasa").descriereLiinie(autobuz2);
     }
 }
