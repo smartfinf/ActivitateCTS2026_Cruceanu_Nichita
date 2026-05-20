@@ -24,7 +24,6 @@ public class Client {
     }
 
     public Client(String nume, ModPlata modPlata) {
-        super();
         this.nume = nume;
         this.modPlata = modPlata;
     }
