@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderS5/BuilderS5.iml" filepath="$PROJECT_DIR$/BuilderS5/BuilderS5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS.iml" filepath="$PROJECT_DIR$/.idea/CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/ChainOfResponsability/ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Custom/Custom.iml" filepath="$PROJECT_DIR$/Custom/Custom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Custom 2/Custom 2.iml" filepath="$PROJECT_DIR$/Custom 2/Custom 2.iml" />
@@ -21,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory Singleton/SimpleFactory Singleton.iml" filepath="$PROJECT_DIR$/SimpleFactory Singleton/SimpleFactory Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Solid_CTS/Solid_CTS.iml" filepath="$PROJECT_DIR$/Solid_CTS/Solid_CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestPractice/TestPractice.iml" filepath="$PROJECT_DIR$/TestPractice/TestPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
