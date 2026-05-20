@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Solid_CTS/Solid_CTS.iml" filepath="$PROJECT_DIR$/Solid_CTS/Solid_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPractice/TestPractice.iml" filepath="$PROJECT_DIR$/TestPractice/TestPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
     </modules>
   </component>

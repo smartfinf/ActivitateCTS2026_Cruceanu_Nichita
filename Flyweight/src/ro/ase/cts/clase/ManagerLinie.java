@@ -17,6 +17,5 @@ public class ManagerLinie {
             registru.put(linieNoua.getNrLinie(), linieNoua);
             return linieNoua;
         }
-
     }
 }

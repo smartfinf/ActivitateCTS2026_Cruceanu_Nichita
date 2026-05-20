@@ -5,7 +5,7 @@ public class Linie implements LinieDeTransport{
     private String ultimaStatie;
     private int nrLinie;
 
-    public Linie( int nrLinie,String primaStatie, String ultimaStatie) {
+    public Linie(int nrLinie, String primaStatie, String ultimaStatie) {
         this.primaStatie = primaStatie;
         this.ultimaStatie = ultimaStatie;
         this.nrLinie = nrLinie;
@@ -42,6 +42,6 @@ public class Linie implements LinieDeTransport{
 
     @Override
     public void numarMaximPasageriPeLinie(Autobuz autobuz) {
-        System.out.println("Nr maxim de calatori intre statiile"+this.primaStatie+"- "+this.ultimaStatie+"este"+autobuz.getNrLocuri());
+        System.out.println("Nr maxim de calatori intre statiile "+this.primaStatie+"- "+this.ultimaStatie+" este "+autobuz.getNrLocuri());
     }
 }
