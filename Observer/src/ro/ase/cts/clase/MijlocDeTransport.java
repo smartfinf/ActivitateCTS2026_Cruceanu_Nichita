@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public abstract class MijlocDeTransport {
-    List<Calator> listaCalatori=new ArrayList<>();
+    List<Calator> listaCalatori;
     String linie;
 
     public MijlocDeTransport(String linie) {

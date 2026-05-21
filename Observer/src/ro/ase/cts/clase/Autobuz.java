@@ -10,6 +10,7 @@ public class Autobuz extends MijlocDeTransport{
     public void pleacaDinDepou() {
         String mesaj="Autobuzul de pe linia "+super.linie+"pleaca din depou";
         notificareCalatori(mesaj);
+
     }
 
     @Override

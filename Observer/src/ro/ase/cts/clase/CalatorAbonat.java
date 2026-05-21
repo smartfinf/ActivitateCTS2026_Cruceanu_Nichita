@@ -33,10 +33,11 @@ public class CalatorAbonat implements Calator{
 
     @Override
     public void notificare(String nrLinie) {
-        System.out.println(this.nume+" "+nrLinie);
+        System.out.println(this.nume+" "+nrLinie+" "+" ");
     }
 
-    public CalatorAbonat(String nume) {
+    public CalatorAbonat(String nume,int sold) {
         this.nume = nume;
+        this.sold=sold;
     }
 }

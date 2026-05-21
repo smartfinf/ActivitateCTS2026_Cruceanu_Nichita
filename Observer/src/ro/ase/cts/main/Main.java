@@ -9,10 +9,10 @@ import ro.ase.cts.clase.MijlocDeTransport;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Calator calator=new CalatorAbonat("Nick");
-        Calator calator2=new CalatorAbonat("Bogdan");
-        Calator calator3=new CalatorAbonat("Raza");
-        Calator calator4=new CalatorAbonat("Marcel");
+        Calator calator=new CalatorAbonat("Nick",4);
+        Calator calator2=new CalatorAbonat("Bogdan",5);
+        Calator calator3=new CalatorAbonat("Raza,",5);
+        Calator calator4=new CalatorAbonat("Marcel",100);
 
         MijlocDeTransport autobuz=new Autobuz("10");
 

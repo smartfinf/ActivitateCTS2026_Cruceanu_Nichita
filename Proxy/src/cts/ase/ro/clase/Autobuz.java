@@ -24,7 +24,7 @@ public class Autobuz implements MijlocDeTransport{
 
     @Override
     public void opresteInStatie(Statie statie) {
-        System.out.println("Autobuzul de pe linie"+nrLinie+" opreste la statia"+statie.getNume());
+        System.out.println("Autobuzul de pe linia "+nrLinie+" opreste la statia "+statie.getNume());
     }
 
     @Override
